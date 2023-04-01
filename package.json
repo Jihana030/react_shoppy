@@ -5,5 +5,13 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.1"
-  }
+  },
+  "name": "react_shoppy",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "repository": "https://github.com/Jihana030/react_shoppy.git",
+  "author": "Jihana <wldnjs7618@naver.com>",
+  "license": "MIT",
+  "private": true
 }
