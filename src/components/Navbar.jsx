@@ -1,6 +1,6 @@
 import React from "react";
 import {Link} from 'react-router-dom';
-import {FiShoppingBag} from 'react-router-dom';
+import {FiShoppingBag} from 'react-icons/fi';
 import {BsFillPencilFill} from 'react-icons/bs';
 
 export default function Navbar(){
