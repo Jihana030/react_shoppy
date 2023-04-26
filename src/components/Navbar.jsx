@@ -18,7 +18,7 @@ export default function Navbar(){
             <nav className="flex items-center gap-4 font-semibold">
                 <Link to='/products'>Products</Link>
                 {user && <Link to='/carts'>Carts</Link>}
-                {user && user.isAdmins && (
+                {user && user.isAdmin && (
                     <Link to='/products/new' className="text-2xl">
                         <BsFillPencilFill />
                     </Link>
